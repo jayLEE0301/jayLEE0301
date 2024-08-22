@@ -3,8 +3,7 @@
 👋 Hi, I’m Seungjae Lee. 
 
 
-I am a Ph.D. student at UMD and
-
+I am a Ph.D. student at UMD.
 
 My research interests are Decision Making Systems and Reinforcement Learning.
 
